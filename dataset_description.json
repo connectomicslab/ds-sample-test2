@@ -1,0 +1,19 @@
+{
+    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Authors": [
+        "Sebastien Tourbier",
+        "Patric Hagmann"
+    ],
+    "BIDSVersion": "1.2.2",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "Swiss National Science Foundation (SNF) Sinergia Grant #170873"
+    ],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "Creative Commons Attribution 4.0 International (CC BY 4.0) ",
+    "Name": "Sample BIDS dataset for testing processing pipeline softwares",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}

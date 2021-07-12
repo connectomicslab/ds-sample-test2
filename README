@@ -1,0 +1,7 @@
+# Sample BIDS dataset for testing multi-modal MRI processing pipeline softwares
+
+This dataset was acquired at the Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland, using a 3T Siemens Prisma MRI scanner.
+
+It is distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. (See https://creativecommons.org/licenses/by/4.0/ for more details)
+
+It adopts the sub-/ses- structure and contains one T1w anatomical MRI (MPRAGE), one diffusion MRI (DSI), and one resting-state functional MRI.

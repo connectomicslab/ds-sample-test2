@@ -1,0 +1,6 @@
+1,0  Initial data acquired
+TODOs:
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)
+
+1,1  Typo in dataset_description.json corrected
+
