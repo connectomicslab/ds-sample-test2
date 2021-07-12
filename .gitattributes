@@ -2,3 +2,8 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 * annex.largefiles=((mimeencoding=binary)and(largerthan=0))
+.bidsignore annex.largefiles=nothing
+CHANGES annex.largefiles=nothing
+README annex.largefiles=nothing
+code/** annex.largefiles=nothing
+dataset_description.json annex.largefiles=nothing
