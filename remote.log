@@ -1,1 +1,1 @@
- location=ssh://stourbie@stockage-horus.chuv.ch:/home/stourbie/Data/ds-sample name=chuv_horus type=git timestamp=1626441267.317135s
+1fb8a9bc-93f8-40ff-bb59-20986ad5b9e2 autoenable=true location=ssh://stourbie@stockage-horus.chuv.ch:/home/stourbie/Data/ds-sample/.git name=horus type=git timestamp=1626442967.270558s
